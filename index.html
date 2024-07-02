@@ -73,7 +73,10 @@
             const tabContent = document.createElement('div');
             tabContent.id = `tab${index}`;
             tabContent.className = 'tabcontent';
-            tabContent.innerHTML = `<h3>${title}</h3><p>${contents[index].join('<br>')}</p>`;
+
+            const numberedList = contents[index].map((name, i) => `${i + 1}. ${name}`).join('<br>');
+            tabContent.innerHTML = `<h3>${title}</h3><p>${numberedList}</p>`;
+
             tabContentContainer.appendChild(tabContent);
         });
 
