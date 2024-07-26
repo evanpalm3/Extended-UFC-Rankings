@@ -42,26 +42,20 @@
 <h2>Rankings</h2>
 
 <div class="tab" id="tabContainer">
-    <!-- Buttons will be dynamically added here -->
 </div>
 
 <div id="tabContentContainer">
-    <!-- Content will be dynamically added here -->
 </div>
 
 <script>
-    // Function to create tabs and content
     function createTabs(titles, contents) {
         const tabContainer = document.getElementById('tabContainer');
         const tabContentContainer = document.getElementById('tabContentContainer');
 
-        // Clear previous content
         tabContainer.innerHTML = '';
         tabContentContainer.innerHTML = '';
 
-        // Create buttons and content divs
         titles.forEach((title, index) => {
-            // Create tab button
             const tabButton = document.createElement('button');
             tabButton.className = 'tablinks';
             tabButton.innerHTML = title;
@@ -69,7 +63,6 @@
             if (index === 0) tabButton.id = 'defaultOpen';
             tabContainer.appendChild(tabButton);
 
-            // Create tab content
             const tabContent = document.createElement('div');
             tabContent.id = `tab${index}`;
             tabContent.className = 'tabcontent';
@@ -80,11 +73,9 @@
             tabContentContainer.appendChild(tabContent);
         });
 
-        // Open the default tab
         document.getElementById('defaultOpen').click();
     }
 
-    // Function to open tabs
     function openTab(evt, tabName) {
         const tabcontent = document.getElementsByClassName('tabcontent');
         for (let i = 0; i < tabcontent.length; i++) {
@@ -98,7 +89,6 @@
         evt.currentTarget.className += ' active';
     }
 
-    // Function to read CSV and initialize tabs
     function loadCSVAndInitializeTabs() {
         fetch('rankings.csv')
             .then(response => response.text())
@@ -118,7 +108,6 @@
             });
     }
 
-    // Load the CSV file and initialize the tabs
     document.addEventListener('DOMContentLoaded', loadCSVAndInitializeTabs);
 </script>
 
