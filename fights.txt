@@ -1,3 +1,549 @@
+Anthony Hernandez*Roman Dolidze*Middleweight*win*August 09, 2025*
+Steve Erceg*Ode Osbourne*Bantamweight*win*August 09, 2025*
+Iasmin Lucindo*Angela Hill*Women's Strawweight*win*August 09, 2025*
+Andre Fili*Christian Rodriguez*Featherweight*win*August 09, 2025*
+Jean Matsumoto*Miles Johns*Bantamweight*win*August 09, 2025*
+Christian Leroy Duncan*Eryk Anders*Middleweight*win*August 09, 2025*
+Julius Walker*Rafael Cerqueira*Light Heavyweight*win*August 09, 2025*
+Elijah Smith*Toshiomi Kazama*Bantamweight*win*August 09, 2025*
+Joselyne Edwards*Priscila Cachoeira*Women's Bantamweight*win*August 09, 2025*
+Uros Medic*Gilbert Urbina*Welterweight*win*August 09, 2025*
+Gabriella Fernandes*Julija Stoliarenko*Women's Flyweight*win*August 09, 2025*
+Eric McConico*Cody Brundage*Light Heavyweight*win*August 09, 2025*
+Tatsuro Taira*HyunSung Park*Flyweight*win*August 02, 2025*
+Chris Duncan*Mateusz Rebecki*Lightweight*win*August 02, 2025*
+Esteban Ribovics*Elves Brener*Lightweight*win*August 02, 2025*
+Karol Rosa*Nora Cornolle*Women's Bantamweight*win*August 02, 2025*
+Neil Magny*Elizeu Zaleski dos Santos*Welterweight*win*August 02, 2025*
+Kevin Vallejos*Danny Silva*Featherweight*win*August 02, 2025*
+Rinya Nakamura*Nathan Fletcher*Bantamweight*win*August 02, 2025*
+Rodolfo Vieira*Tresean Gore*Middleweight*win*August 02, 2025*
+Andrey Pulyaev*Nick Klein*Middleweight*win*August 02, 2025*
+Austin Bashi*John Yannis*Featherweight*win*August 02, 2025*
+Rafael Estevam*Felipe Bunes*Flyweight*win*August 02, 2025*
+Piera Rodriguez*Ketlen Souza*Women's Strawweight*win*August 02, 2025*
+Reinier de Ridder*Robert Whittaker*Middleweight*win*July 26, 2025*
+Petr Yan*Marcus McGhee*Bantamweight*win*July 26, 2025*
+Shara Magomedov*Marc-Andre Barriault*Middleweight*win*July 26, 2025*
+Asu Almabayev*Jose Ochoa*Flyweight*win*July 26, 2025*
+Bogdan Guskov*Nikita Krylov*Light Heavyweight*win*July 26, 2025*
+Bryce Mitchell*Said Nurmagomedov*Bantamweight*win*July 26, 2025*
+Muslim Salikhov*Carlos Leal*Welterweight*win*July 26, 2025*
+Davey Grant*Da'Mon Blackshear*Bantamweight*win*July 26, 2025*
+Tabatha Ricci*Amanda Ribas*Women's Strawweight*win*July 26, 2025*
+Billy Elekana*Ibo Aslan*Light Heavyweight*win*July 26, 2025*
+Steven Nguyen*Mohammad Yahya*Featherweight*win*July 26, 2025*
+Martin Buday*Marcus Buchecha*Heavyweight*win*July 26, 2025*
+Max Holloway*Dustin Poirier*Lightweight*win*July 19, 2025*
+Paulo Costa*Roman Kopylov*Middleweight*win*July 19, 2025*
+Daniel Rodriguez*Kevin Holland*Welterweight*win*July 19, 2025*
+Patricio Freire*Dan Ige*Featherweight*win*July 19, 2025*
+Michael Johnson*Daniel Zellhuber*Lightweight*win*July 19, 2025*
+Vinicius Oliveira*Kyler Phillips*Bantamweight*win*July 19, 2025*
+Brendan Allen*Marvin Vettori*Middleweight*win*July 19, 2025*
+Nikolay Veretennikov*Francisco Prado*Welterweight*win*July 19, 2025*
+Ateba Gautier*Robert Valentin*Middleweight*win*July 19, 2025*
+Islam Dulatov*Adam Fugitt*Welterweight*win*July 19, 2025*
+Jimmy Crute*Marcin Prachnio*Light Heavyweight*win*July 19, 2025*
+Ryan Spann*Lukasz Brzeski*Heavyweight*win*July 19, 2025*
+Brunno Ferreira*Jackson McVey*Middleweight*win*July 19, 2025*
+Carli Judice*Nicolle Caliari*Women's Flyweight*win*July 19, 2025*
+Derrick Lewis*Tallison Teixeira*Heavyweight*win*July 12, 2025*
+Gabriel Bonfim*Stephen Thompson*Welterweight*win*July 12, 2025*
+Steve Garcia*Calvin Kattar*Featherweight*win*July 12, 2025*
+Morgan Charriere*Nate Landwehr*Featherweight*win*July 12, 2025*
+Vitor Petrino*Austen Lane*Heavyweight*win*July 12, 2025*
+Tuco Tokkos*Junior Tafa*Light Heavyweight*win*July 12, 2025*
+Chris Curtis*Max Griffin*Welterweight*win*July 12, 2025*
+Jake Matthews*Chidi Njokuani*Welterweight*win*July 12, 2025*
+Eduarda Moura*Lauren Murphy*Women's Flyweight*win*July 12, 2025*
+Valter Walker*Kennedy Nzechukwu*Heavyweight*win*July 12, 2025*
+Mike Davis*Mitch Ramirez*Lightweight*win*July 12, 2025*
+Fatima Kline*Melissa Martinez*Women's Strawweight*win*July 12, 2025*
+Ilia Topuria*Charles Oliveira*Lightweight*win*June 28, 2025*
+Alexandre Pantoja*Kai Kara-France*Flyweight*win*June 28, 2025*
+Joshua Van*Brandon Royval*Flyweight*win*June 28, 2025*
+Beneil Dariush*Renato Moicano*Lightweight*win*June 28, 2025*
+Payton Talbott*Felipe Lima*Bantamweight*win*June 28, 2025*
+Gregory Rodrigues*Jack Hermansson*Middleweight*win*June 28, 2025*
+Jose Delgado*Hyder Amil*Featherweight*win*June 28, 2025*
+Tracy Cortez*Viviane Araujo*Women's Flyweight*win*June 28, 2025*
+Terrance McKinney*Viacheslav Borshchev*Lightweight*win*June 28, 2025*
+Jacobe Smith*Niko Price*Welterweight*win*June 28, 2025*
+Jhonata Diniz*Alvin Hines*Heavyweight*win*June 28, 2025*
+Khalil Rountree Jr.*Jamahal Hill*Light Heavyweight*win*June 21, 2025*
+Rafael Fiziev*Ignacio Bahamondes*Lightweight*win*June 21, 2025*
+Curtis Blaydes*Rizvan Kuniev*Heavyweight*win*June 21, 2025*
+Myktybek Orolbai*Tofiq Musayev*Catch Weight*win*June 21, 2025*
+Nazim Sadykhov*Nikolas Motta*Lightweight*win*June 21, 2025*
+Muhammad Naimov*Bogdan Grad*Featherweight*win*June 21, 2025*
+Seokhyeon Ko*Oban Elliott*Welterweight*win*June 21, 2025*
+JunYong Park*Ismail Naurdiev*Middleweight*win*June 21, 2025*
+Daria Zhelezniakova*Melissa Mullins*Women's Bantamweight*win*June 21, 2025*
+Klaudia Sygula*Irina Alekseeva*Women's Bantamweight*win*June 21, 2025*
+Tagir Ulanbekov*Azat Maksum*Flyweight*win*June 21, 2025*
+Mohammed Usman*Hamdy Abdelwahab*Heavyweight*win*June 21, 2025*
+Kamaru Usman*Joaquin Buckley*Welterweight*win*June 14, 2025*
+Rose Namajunas*Miranda Maverick*Women's Flyweight*win*June 14, 2025*
+Edmen Shahbazyan*Andre Petroski*Middleweight*win*June 14, 2025*
+Raoni Barcelos*Cody Garbrandt*Bantamweight*win*June 14, 2025*
+Mansur Abdul-Malik*Cody Brundage*Middleweight*draw*June 14, 2025*
+Alonzo Menifield*Oumar Sy*Light Heavyweight*win*June 14, 2025*
+Paul Craig*Rodolfo Bellato*Light Heavyweight*draw*June 14, 2025*
+Michael Chiesa*Court McGee*Welterweight*win*June 14, 2025*
+Malcolm Wellmaker*Kris Moutinho*Bantamweight*win*June 14, 2025*
+Jose Ochoa*Cody Durden*Flyweight*win*June 14, 2025*
+Ricky Simon*Cameron Smotherman*Bantamweight*win*June 14, 2025*
+Phil Rowe*Ange Loosa*Welterweight*win*June 14, 2025*
+Jamey-Lyn Horth*Vanessa Demopoulos*Women's Flyweight*win*June 14, 2025*
+Merab Dvalishvili*Sean O'Malley*Bantamweight*win*June 07, 2025*
+Kayla Harrison*Julianna Pena*Women's Bantamweight*win*June 07, 2025*
+Joe Pyfer*Kelvin Gastelum*Middleweight*win*June 07, 2025*
+Mario Bautista*Patchy Mix*Bantamweight*win*June 07, 2025*
+Kevin Holland*Vicente Luque*Welterweight*win*June 07, 2025*
+Joshua Van*Bruno Silva*Flyweight*win*June 07, 2025*
+Azamat Murzakanov*Brendson Ribeiro*Light Heavyweight*win*June 07, 2025*
+Waldo Cortes-Acosta*Serghei Spivac*Heavyweight*win*June 07, 2025*
+Andreas Gustafsson*Khaos Williams*Welterweight*win*June 07, 2025*
+Wang Cong*Ariane da Silva*Women's Flyweight*win*June 07, 2025*
+JooSang Yoo*Jeka Saragih*Featherweight*win*June 07, 2025*
+Quillan Salkilld*Yanal Ashmouz*Lightweight*win*June 07, 2025*
+MarQuel Mederos*Mark Choinski*Lightweight*win*June 07, 2025*
+Mateusz Gamrot*Ludovit Klein*Lightweight*win*May 31, 2025*
+Ramiz Brahimaj*Billy Ray Goff*Welterweight*win*May 31, 2025*
+Dustin Jacoby*Bruno Lopes*Light Heavyweight*win*May 31, 2025*
+Ketlen Vieira*Macy Chiasson*Women's Featherweight*win*May 31, 2025*
+Zachary Reese*Dusko Todorovic*Middleweight*win*May 31, 2025*
+Allan Nascimento*Jafel Filho*Flyweight*win*May 31, 2025*
+Jordan Leavitt*Kurt Holobaugh*Lightweight*win*May 31, 2025*
+Bolaji Oki*Michael Aswell*Lightweight*win*May 31, 2025*
+Alice Ardelean*Rayanne dos Santos*Women's Strawweight*win*May 31, 2025*
+Michael Morales*Gilbert Burns*Welterweight*win*May 17, 2025*
+Mairon Santos*Sodiq Yusuff*Lightweight*win*May 17, 2025*
+Nursulton Ruziboev*Dustin Stoltzfus*Middleweight*win*May 17, 2025*
+Melquizael Costa*Julian Erosa*Featherweight*win*May 17, 2025*
+Gabe Green*Matheus Camilo*Lightweight*win*May 17, 2025*
+Jared Gordon*Thiago Moises*Lightweight*win*May 17, 2025*
+Yadier del Valle*Connor Matthews*Featherweight*win*May 17, 2025*
+Luana Santos*Tainara Lisboa*Women's Bantamweight*win*May 17, 2025*
+Denise Gomes*Elise Reed*Women's Strawweight*win*May 17, 2025*
+HyunSung Park*Carlos Hernandez*Flyweight*win*May 17, 2025*
+Tecia Pennington*Luana Pinheiro*Women's Strawweight*win*May 17, 2025*
+Jack Della Maddalena*Belal Muhammad*Welterweight*win*May 10, 2025*
+Valentina Shevchenko*Manon Fiorot*Women's Flyweight*win*May 10, 2025*
+Aiemann Zahabi*Jose Aldo*Featherweight*win*May 10, 2025*
+Natalia Silva*Alexa Grasso*Women's Flyweight*win*May 10, 2025*
+Benoit Saint Denis*Kyle Prepolec*Lightweight*win*May 10, 2025*
+Mike Malott*Charles Radtke*Welterweight*win*May 10, 2025*
+Jasmine Jasudavicius*Jessica Andrade*Women's Flyweight*win*May 10, 2025*
+Modestas Bukauskas*Ion Cutelaba*Light Heavyweight*win*May 10, 2025*
+Navajo Stirling*Ivan Erslan*Light Heavyweight*win*May 10, 2025*
+Marc-Andre Barriault*Bruno Silva*Middleweight*win*May 10, 2025*
+Daniel Santos*JeongYeong Lee*Featherweight*win*May 10, 2025*
+Bekzat Almakhan*Brad Katona*Bantamweight*win*May 10, 2025*
+Cory Sandhagen*Deiveson Figueiredo*Bantamweight*win*May 03, 2025*
+Reinier de Ridder*Bo Nickal*Middleweight*win*May 03, 2025*
+Daniel Rodriguez*Santiago Ponzinibbio*Welterweight*win*May 03, 2025*
+Montel Jackson*Daniel Marcos*Bantamweight*win*May 03, 2025*
+Serhiy Sidey*Cameron Smotherman*Bantamweight*win*May 03, 2025*
+Mason Jones*Jeremy Stephens*Lightweight*win*May 03, 2025*
+Yana Santos*Miesha Tate*Women's Bantamweight*win*May 03, 2025*
+Azamat Bekoev*Ryan Loder*Middleweight*win*May 03, 2025*
+Gillian Robertson*Marina Rodriguez*Women's Strawweight*win*May 03, 2025*
+Quang Le*Gaston Bolanos*Bantamweight*win*May 03, 2025*
+Thomas Petersen*Don'Tale Mayes*Heavyweight*win*May 03, 2025*
+Juliana Miller*Ivana Petrovic*Women's Flyweight*win*May 03, 2025*
+Ian Machado Garry*Carlos Prates*Welterweight*win*April 26, 2025*
+Zhang Mingyang*Anthony Smith*Light Heavyweight*win*April 26, 2025*
+David Onama*Giga Chikadze*Featherweight*win*April 26, 2025*
+Abus Magomedov*Michel Pereira*Middleweight*win*April 26, 2025*
+Randy Brown*Nicolas Dalby*Welterweight*win*April 26, 2025*
+Ikram Aliskerov*Andre Muniz*Middleweight*win*April 26, 2025*
+Matt Schnell*Jimmy Flick*Flyweight*win*April 26, 2025*
+Evan Elder*Gauge Young*Lightweight*win*April 26, 2025*
+Chris Gutierrez*John Castaneda*Featherweight*win*April 26, 2025*
+Da'Mon Blackshear*Alatengheili*Bantamweight*win*April 26, 2025*
+Malcolm Wellmaker*Cameron Saaiman*Bantamweight*win*April 26, 2025*
+Jaqueline Amorim*Polyana Viana*Women's Strawweight*win*April 26, 2025*
+Timmy Cuamba*Roberto Romero*Featherweight*win*April 26, 2025*
+Joselyne Edwards*Chelsea Chandler*Women's Bantamweight*win*April 26, 2025*
+Alexander Volkanovski*Diego Lopes*Featherweight*win*April 12, 2025*
+Paddy Pimblett*Michael Chandler*Lightweight*win*April 12, 2025*
+Yair Rodriguez*Patricio Freire*Featherweight*win*April 12, 2025*
+Jean Silva*Bryce Mitchell*Featherweight*win*April 12, 2025*
+Dominick Reyes*Nikita Krylov*Light Heavyweight*win*April 12, 2025*
+Dan Ige*Sean Woodson*Featherweight*win*April 12, 2025*
+Virna Jandiroba*Yan Xiaonan*Women's Strawweight*win*April 12, 2025*
+Chase Hooper*Jim Miller*Lightweight*win*April 12, 2025*
+Julian Erosa*Darren Elkins*Featherweight*win*April 12, 2025*
+Michal Oleksiejczuk*Sedriques Dumas*Middleweight*win*April 12, 2025*
+Sumudaerji*Mitch Raposo*Flyweight*win*April 12, 2025*
+Marco Tulio*Tresean Gore*Middleweight*win*April 12, 2025*
+Nora Cornolle*Hailey Cowan*Women's Bantamweight*win*April 12, 2025*
+Lerone Murphy*Josh Emmett*Featherweight*win*April 05, 2025*
+Pat Sabatini*Joanderson Brito*Featherweight*win*April 05, 2025*
+ChangHo Lee*Cortavious Romious*Bantamweight*win*April 05, 2025*
+Brad Tavares*Gerald Meerschaert*Middleweight*win*April 05, 2025*
+Ode Osbourne*Luis Gurule*Flyweight*win*April 05, 2025*
+Torrez Finney*Robert Valentin*Middleweight*win*April 05, 2025*
+Dione Barbosa*Diana Belbita*Women's Flyweight*win*April 05, 2025*
+Rhys McKee*Daniel Frunza*Welterweight*win*April 05, 2025*
+Loma Lookboonmee*Istela Nunes*Women's Strawweight*win*April 05, 2025*
+Victor Henry*Pedro Falcao*Bantamweight*win*April 05, 2025*
+Martin Buday*Uran Satybaldiev*Heavyweight*win*April 05, 2025*
+Talita Alencar*Vanessa Demopoulos*Women's Strawweight*win*April 05, 2025*
+Brandon Moreno*Steve Erceg*Flyweight*win*March 29, 2025*
+Manuel Torres*Drew Dober*Lightweight*win*March 29, 2025*
+Edgar Chairez*CJ Vergara*Flyweight*win*March 29, 2025*
+Raul Rosas Jr.*Vince Morales*Bantamweight*win*March 29, 2025*
+David Martinez*Saimon Oliveira*Bantamweight*win*March 29, 2025*
+Kevin Borjas*Ronaldo Rodriguez*Flyweight*win*March 29, 2025*
+Ateba Gautier*Jose Daniel Medina*Middleweight*win*March 29, 2025*
+Melquizael Costa*Christian Rodriguez*Featherweight*win*March 29, 2025*
+Loopy Godinez*Julia Polastri*Women's Strawweight*win*March 29, 2025*
+Rafa Garcia*Vinc Pichel*Lightweight*win*March 29, 2025*
+Jamall Emmers*Gabriel Miranda*Featherweight*win*March 29, 2025*
+MarQuel Mederos*Austin Hubbard*Lightweight*win*March 29, 2025*
+Sean Brady*Leon Edwards*Welterweight*win*March 22, 2025*
+Carlos Ulberg*Jan Blachowicz*Light Heavyweight*win*March 22, 2025*
+Kevin Holland*Gunnar Nelson*Welterweight*win*March 22, 2025*
+Alexia Thainara*Molly McCann*Women's Strawweight*win*March 22, 2025*
+Chris Duncan*Jordan Vucenic*Lightweight*win*March 22, 2025*
+Nathaniel Wood*Morgan Charriere*Featherweight*win*March 22, 2025*
+Chris Padilla*Jai Herbert*Lightweight*win*March 22, 2025*
+Lone'er Kavanagh*Felipe dos Santos*Flyweight*win*March 22, 2025*
+Marcin Tybura*Mick Parkin*Heavyweight*win*March 22, 2025*
+Christian Leroy Duncan*Andrey Pulyaev*Middleweight*win*March 22, 2025*
+Shauna Bannon*Puja Tomar*Women's Strawweight*win*March 22, 2025*
+Caolan Loughran*Nathan Fletcher*Bantamweight*win*March 22, 2025*
+Kaue Fernandes*Guram Kutateladze*Lightweight*win*March 22, 2025*
+Roman Dolidze*Marvin Vettori*Middleweight*win*March 15, 2025*
+Chidi Njokuani*Elizeu Zaleski dos Santos*Welterweight*win*March 15, 2025*
+Alexander Hernandez*Kurt Holobaugh*Lightweight*win*March 15, 2025*
+Da'Mon Blackshear*Cody Gibson*Bantamweight*win*March 15, 2025*
+Brendson Ribeiro*Diyar Nurgozhay*Light Heavyweight*win*March 15, 2025*
+Kevin Vallejos*SeungWoo Choi*Featherweight*win*March 15, 2025*
+Waldo Cortes-Acosta*Ryan Spann*Heavyweight*win*March 15, 2025*
+SuYoung You*AJ Cunningham*Bantamweight*win*March 15, 2025*
+Carlos Vera*Josias Musasa*Bantamweight*win*March 15, 2025*
+Sam Hughes*Stephanie Luciano*Women's Strawweight*win*March 15, 2025*
+Andre Lima*Daniel Barez*Flyweight*win*March 15, 2025*
+Priscila Cachoeira*Josiane Nunes*Women's Bantamweight*win*March 15, 2025*
+Carli Judice*Yuneisy Duben*Women's Flyweight*win*March 15, 2025*
+Magomed Ankalaev*Alex Pereira*Light Heavyweight*win*March 08, 2025*
+Justin Gaethje*Rafael Fiziev*Lightweight*win*March 08, 2025*
+Ignacio Bahamondes*Jalin Turner*Lightweight*win*March 08, 2025*
+Amanda Lemos*Iasmin Lucindo*Women's Strawweight*win*March 08, 2025*
+Mauricio Ruffy*King Green*Lightweight*win*March 08, 2025*
+Joshua Van*Rei Tsuruya*Flyweight*win*March 08, 2025*
+Brunno Ferreira*Armen Petrosyan*Middleweight*win*March 08, 2025*
+Carlos Leal*Alex Morono*Welterweight*win*March 08, 2025*
+Mairon Santos*Francis Marshall*Featherweight*win*March 08, 2025*
+Ozzy Diaz*Djorden Santos*Middleweight*win*March 08, 2025*
+Manel Kape*Asu Almabayev*Flyweight*win*March 01, 2025*
+Cody Brundage*Julian Marquez*Middleweight*win*March 01, 2025*
+Nasrat Haqparast*Esteban Ribovics*Lightweight*win*March 01, 2025*
+Hyder Amil*William Gomis*Featherweight*win*March 01, 2025*
+Sam Patterson*Danny Barlow*Welterweight*win*March 01, 2025*
+Mario Pinto*Austen Lane*Heavyweight*win*March 01, 2025*
+Chepe Mariscal*Ricardo Ramos*Featherweight*win*March 01, 2025*
+Danny Silva*Lucas Almeida*Featherweight*win*March 01, 2025*
+JJ Aldrich*Andrea Lee*Women's Flyweight*win*March 01, 2025*
+Ramazan Temirov*Charles Johnson*Flyweight*win*March 01, 2025*
+Song Yadong*Henry Cejudo*Bantamweight*win*February 22, 2025*
+Anthony Hernandez*Brendan Allen*Middleweight*win*February 22, 2025*
+Rob Font*Jean Matsumoto*Catch Weight*win*February 22, 2025*
+Jean Silva*Melsik Baghdasaryan*Featherweight*win*February 22, 2025*
+Alonzo Menifield*Julius Walker*Light Heavyweight*win*February 22, 2025*
+Ion Cutelaba*Ibo Aslan*Light Heavyweight*win*February 22, 2025*
+Melquizael Costa*Andre Fili*Featherweight*win*February 22, 2025*
+Mansur Abdul-Malik*Nick Klein*Middleweight*win*February 22, 2025*
+Ricky Simon*Javid Basharat*Bantamweight*win*February 22, 2025*
+Austin Vanderford*Nikolay Veretennikov*Catch Weight*win*February 22, 2025*
+Nursulton Ruziboev*Eric McConico*Middleweight*win*February 22, 2025*
+Modestas Bukauskas*Rafael Cerqueira*Light Heavyweight*win*February 22, 2025*
+Jared Cannonier*Gregory Rodrigues*Middleweight*win*February 15, 2025*
+Youssef Zalal*Calvin Kattar*Featherweight*win*February 15, 2025*
+Edmen Shahbazyan*Dylan Budka*Middleweight*win*February 15, 2025*
+Nazim Sadykhov*Ismael Bonfim*Lightweight*win*February 15, 2025*
+Andre Petroski*Rodolfo Vieira*Middleweight*win*February 15, 2025*
+Jose Delgado*Connor Matthews*Featherweight*win*February 15, 2025*
+Angela Hill*Ketlen Souza*Women's Strawweight*win*February 15, 2025*
+Rafael Estevam*Jesus Aguilar*Flyweight*win*February 15, 2025*
+Gabriel Bonfim*Khaos Williams*Welterweight*win*February 15, 2025*
+Elijah Smith*Vince Morales*Bantamweight*win*February 15, 2025*
+Valter Walker*Don'Tale Mayes*Heavyweight*win*February 15, 2025*
+Jacqueline Cavalcanti*Julia Avila*Women's Bantamweight*win*February 15, 2025*
+Dricus Du Plessis*Sean Strickland*Middleweight*win*February 08, 2025*
+Zhang Weili*Tatiana Suarez*Women's Strawweight*win*February 08, 2025*
+Tallison Teixeira*Justin Tafa*Heavyweight*win*February 08, 2025*
+Jimmy Crute*Rodolfo Bellato*Light Heavyweight*draw*February 08, 2025*
+Jake Matthews*Francisco Prado*Welterweight*win*February 08, 2025*
+Gabriel Santos*Jack Jenkins*Featherweight*win*February 08, 2025*
+Tom Nolan*Viacheslav Borshchev*Lightweight*win*February 08, 2025*
+Wang Cong*Bruna Brasil*Women's Flyweight*win*February 08, 2025*
+Aleksandre Topuria*Colby Thicknesse*Bantamweight*win*February 08, 2025*
+Rongzhu*Kody Steele*Lightweight*win*February 08, 2025*
+Jonathan Micallef*Kevin Jousset*Welterweight*win*February 08, 2025*
+Quillan Salkilld*Anshul Jubli*Lightweight*win*February 08, 2025*
+Nassourdine Imavov*Israel Adesanya*Middleweight*win*February 01, 2025*
+Michael Page*Shara Magomedov*Middleweight*win*February 01, 2025*
+Sergei Pavlovich*Jairzinho Rozenstruik*Heavyweight*win*February 01, 2025*
+Vinicius Oliveira*Said Nurmagomedov*Bantamweight*win*February 01, 2025*
+Fares Ziam*Mike Davis*Lightweight*win*February 01, 2025*
+Muhammad Naimov*Kaan Ofli*Featherweight*win*February 01, 2025*
+Shamil Gaziev*Thomas Petersen*Heavyweight*win*February 01, 2025*
+Terrance McKinney*Damir Hadzovic*Lightweight*win*February 01, 2025*
+Jasmine Jasudavicius*Mayra Bueno Silva*Women's Flyweight*win*February 01, 2025*
+Bogdan Grad*Lucas Alexander*Featherweight*win*February 01, 2025*
+Hamdy Abdelwahab*Jamal Pogues*Heavyweight*win*February 01, 2025*
+Islam Makhachev*Renato Moicano*Lightweight*win*January 18, 2025*
+Merab Dvalishvili*Umar Nurmagomedov*Bantamweight*win*January 18, 2025*
+Jiri Prochazka*Jamahal Hill*Light Heavyweight*win*January 18, 2025*
+Jailton Almeida*Serghei Spivac*Heavyweight*win*January 18, 2025*
+Reinier de Ridder*Kevin Holland*Middleweight*win*January 18, 2025*
+Raoni Barcelos*Payton Talbott*Bantamweight*win*January 18, 2025*
+Azamat Bekoev*Zachary Reese*Middleweight*win*January 18, 2025*
+Bogdan Guskov*Billy Elekana*Light Heavyweight*win*January 18, 2025*
+Grant Dawson*Diego Ferreira*Lightweight*win*January 18, 2025*
+Ailin Perez*Karol Rosa*Women's Bantamweight*win*January 18, 2025*
+Muin Gafurov*Rinya Nakamura*Bantamweight*win*January 18, 2025*
+Benardo Sopaj*Ricky Turcios*Bantamweight*win*January 18, 2025*
+Tagir Ulanbekov*Clayton Carpenter*Flyweight*win*January 18, 2025*
+Mackenzie Dern*Amanda Ribas*Women's Strawweight*win*January 11, 2025*
+Santiago Ponzinibbio*Carlston Harris*Welterweight*win*January 11, 2025*
+Cesar Almeida*Abdul Razak Alhassan*Middleweight*win*January 11, 2025*
+Roman Kopylov*Chris Curtis*Middleweight*win*January 11, 2025*
+Christian Rodriguez*Austin Bashi*Featherweight*win*January 11, 2025*
+Punahele Soriano*Uros Medic*Welterweight*win*January 11, 2025*
+Felipe Bunes*Jose Johnson*Flyweight*win*January 11, 2025*
+Marco Tulio*Ihor Potieria*Middleweight*win*January 11, 2025*
+Thiago Moises*Trey Ogden*Lightweight*win*January 11, 2025*
+Jacobe Smith*Preston Parsons*Welterweight*win*January 11, 2025*
+Ernesta Kareckaite*Nicolle Caliari*Women's Flyweight*win*January 11, 2025*
+Bruno Lopes*Magomed Gadzhiyasulov*Light Heavyweight*win*January 11, 2025*
+Fatima Kline*Viktoriia Dudakova*Women's Strawweight*win*January 11, 2025*
+Nurullo Aliev*Joe Solecki*Lightweight*win*January 11, 2025*
+Joaquin Buckley*Colby Covington*Welterweight*win*December 14, 2024*
+Cub Swanson*Billy Quarantillo*Featherweight*win*December 14, 2024*
+Manel Kape*Bruno Silva*Flyweight*win*December 14, 2024*
+Dustin Jacoby*Vitor Petrino*Light Heavyweight*win*December 14, 2024*
+Daniel Marcos*Adrian Yanez*Bantamweight*win*December 14, 2024*
+Navajo Stirling*Tuco Tokkos*Light Heavyweight*win*December 14, 2024*
+Michael Johnson*Ottman Azaitar*Lightweight*win*December 14, 2024*
+Joel Alvarez*Drakkar Klose*Lightweight*win*December 14, 2024*
+Sean Woodson*Fernando Padilla*Featherweight*win*December 14, 2024*
+Felipe Lima*Miles Johns*Featherweight*win*December 14, 2024*
+Miranda Maverick*Jamey-Lyn Horth*Women's Flyweight*win*December 14, 2024*
+Davey Grant*Ramon Taveras*Bantamweight*win*December 14, 2024*
+Piera Rodriguez*Josefine Knutsson*Women's Strawweight*win*December 14, 2024*
+Alexandre Pantoja*Kai Asakura*Flyweight*win*December 07, 2024*
+Shavkat Rakhmonov*Ian Machado Garry*Welterweight*win*December 07, 2024*
+Ciryl Gane*Alexander Volkov*Heavyweight*win*December 07, 2024*
+Bryce Mitchell*Kron Gracie*Featherweight*win*December 07, 2024*
+Dooho Choi*Nate Landwehr*Featherweight*win*December 07, 2024*
+Dominick Reyes*Anthony Smith*Light Heavyweight*win*December 07, 2024*
+Vicente Luque*Themba Gorimbo*Welterweight*win*December 07, 2024*
+Movsar Evloev*Aljamain Sterling*Featherweight*win*December 07, 2024*
+Bryan Battle*Randy Brown*Welterweight*win*December 07, 2024*
+Eryk Anders*Chris Weidman*Catch Weight*win*December 07, 2024*
+Joshua Van*Cody Durden*Flyweight*win*December 07, 2024*
+Michael Chiesa*Max Griffin*Welterweight*win*December 07, 2024*
+Chase Hooper*Clay Guida*Lightweight*win*December 07, 2024*
+Kennedy Nzechukwu*Lukasz Brzeski*Heavyweight*win*December 07, 2024*
+Petr Yan*Deiveson Figueiredo*Bantamweight*win*November 23, 2024*
+Yan Xiaonan*Tabatha Ricci*Women's Strawweight*win*November 23, 2024*
+Muslim Salikhov*Song Kenan*Welterweight*win*November 23, 2024*
+Gabriella Fernandes*Wang Cong*Women's Flyweight*win*November 23, 2024*
+Carlos Ulberg*Volkan Oezdemir*Light Heavyweight*win*November 23, 2024*
+Zhang Mingyang*Ozzy Diaz*Light Heavyweight*win*November 23, 2024*
+SuYoung You*Baergeng Jieleyisi*Bantamweight*win*November 23, 2024*
+DongHun Choi*Kiru Sahota*Flyweight*win*November 23, 2024*
+Shi Ming*Feng Xiaocan*Women's Strawweight*win*November 23, 2024*
+Carlos Hernandez*Nyamjargal Tumendemberel*Flyweight*win*November 23, 2024*
+Lone'er Kavanagh*Jose Ochoa*Flyweight*win*November 23, 2024*
+Xiao Long*Quang Le*Bantamweight*win*November 23, 2024*
+Nikolas Motta*Maheshate*Lightweight*win*November 23, 2024*
+Jon Jones*Stipe Miocic*Heavyweight*win*November 16, 2024*
+Charles Oliveira*Michael Chandler*Lightweight*win*November 16, 2024*
+Bo Nickal*Paul Craig*Middleweight*win*November 16, 2024*
+Viviane Araujo*Karine Silva*Women's Flyweight*win*November 16, 2024*
+Mauricio Ruffy*James Llontop*Catch Weight*win*November 16, 2024*
+Marcus McGhee*Jonathan Martinez*Bantamweight*win*November 16, 2024*
+Jim Miller*Damon Jackson*Lightweight*win*November 16, 2024*
+David Onama*Roberto Romero*Lightweight*win*November 16, 2024*
+Marcin Tybura*Jhonata Diniz*Heavyweight*win*November 16, 2024*
+Ramiz Brahimaj*Mickey Gall*Welterweight*win*November 16, 2024*
+Oban Elliott*Bassil Hafez*Welterweight*win*November 16, 2024*
+Eduarda Moura*Veronica Hardy*Women's Flyweight*win*November 16, 2024*
+Carlos Prates*Neil Magny*Welterweight*win*November 09, 2024*
+Reinier de Ridder*Gerald Meerschaert*Middleweight*win*November 09, 2024*
+Gaston Bolanos*Cortavious Romious*Bantamweight*win*November 09, 2024*
+Gillian Robertson*Luana Pinheiro*Women's Strawweight*win*November 09, 2024*
+Mansur Abdul-Malik*Dusko Todorovic*Middleweight*win*November 09, 2024*
+Denise Gomes*Karolina Kowalkiewicz*Women's Strawweight*win*November 09, 2024*
+Elizeu Zaleski dos Santos*Zachary Scroggin*Welterweight*win*November 09, 2024*
+Charles Radtke*Matthew Semelsberger*Welterweight*win*November 09, 2024*
+Da'Mon Blackshear*Cody Stamann*Bantamweight*win*November 09, 2024*
+Tresean Gore*Antonio Trocoli*Middleweight*win*November 09, 2024*
+Melissa Mullins*Klaudia Sygula*Women's Bantamweight*win*November 09, 2024*
+Brandon Moreno*Amir Albazi*Flyweight*win*November 02, 2024*
+Erin Blanchfield*Rose Namajunas*Women's Flyweight*win*November 02, 2024*
+Brendson Ribeiro*Caio Machado*Light Heavyweight*win*November 02, 2024*
+Jasmine Jasudavicius*Ariane da Silva*Women's Flyweight*win*November 02, 2024*
+Dustin Stoltzfus*Marc-Andre Barriault*Middleweight*win*November 02, 2024*
+Mike Malott*Trevin Giles*Welterweight*win*November 02, 2024*
+Aiemann Zahabi*Pedro Munhoz*Bantamweight*win*November 02, 2024*
+Charles Jourdain*Victor Henry*Bantamweight*win*November 02, 2024*
+Youssef Zalal*Jack Shore*Featherweight*win*November 02, 2024*
+Alexandr Romanov*Rodrigo Nascimento*Heavyweight*win*November 02, 2024*
+Serhiy Sidey*Garrett Armfield*Bantamweight*win*November 02, 2024*
+Cody Gibson*Chad Anheliger*Bantamweight*win*November 02, 2024*
+Jamey-Lyn Horth*Ivana Petrovic*Women's Flyweight*win*November 02, 2024*
+Ilia Topuria*Max Holloway*Featherweight*win*October 26, 2024*
+Khamzat Chimaev*Robert Whittaker*Middleweight*win*October 26, 2024*
+Magomed Ankalaev*Aleksandar Rakic*Light Heavyweight*win*October 26, 2024*
+Lerone Murphy*Dan Ige*Featherweight*win*October 26, 2024*
+Shara Magomedov*Armen Petrosyan*Middleweight*win*October 26, 2024*
+Ibo Aslan*Rafael Cerqueira*Light Heavyweight*win*October 26, 2024*
+Geoff Neal*Rafael Dos Anjos*Welterweight*win*October 26, 2024*
+Mateusz Rebecki*Myktybek Orolbai*Catch Weight*win*October 26, 2024*
+Abus Magomedov*Brunno Ferreira*Middleweight*win*October 26, 2024*
+Kennedy Nzechukwu*Chris Barnett*Heavyweight*win*October 26, 2024*
+Farid Basharat*Victor Hugo*Featherweight*win*October 26, 2024*
+Ismail Naurdiev*Bruno Silva*Middleweight*win*October 26, 2024*
+Rinat Fakhretdinov*Carlos Leal*Welterweight*win*October 26, 2024*
+Anthony Hernandez*Michel Pereira*Middleweight*win*October 19, 2024*
+Rob Font*Kyler Phillips*Bantamweight*win*October 19, 2024*
+Charles Johnson*Sumudaerji*Flyweight*win*October 19, 2024*
+Cameron Smotherman*Jake Hadley*Bantamweight*win*October 19, 2024*
+Darren Elkins*Daniel Pineda*Featherweight*win*October 19, 2024*
+Asu Almabayev*Matheus Nicolau*Flyweight*win*October 19, 2024*
+Jean Matsumoto*Brad Katona*Bantamweight*win*October 19, 2024*
+Joselyne Edwards*Tamires Vidal*Women's Bantamweight*win*October 19, 2024*
+Elise Reed*Jessica Penne*Women's Strawweight*win*October 19, 2024*
+Melissa Martinez*Alice Ardelean*Women's Strawweight*win*October 19, 2024*
+Austen Lane*Robelis Despaigne*Heavyweight*win*October 19, 2024*
+Brandon Royval*Tatsuro Taira*Flyweight*win*October 12, 2024*
+JunYong Park*Brad Tavares*Middleweight*win*October 12, 2024*
+Chidi Njokuani*Jared Gooden*Welterweight*win*October 12, 2024*
+Grant Dawson*Rafa Garcia*Lightweight*win*October 12, 2024*
+Daniel Rodriguez*Alex Morono*Welterweight*win*October 12, 2024*
+Ramazan Temirov*CJ Vergara*Flyweight*win*October 12, 2024*
+Pat Sabatini*Jonathan Pearce*Featherweight*win*October 12, 2024*
+Themba Gorimbo*Niko Price*Welterweight*win*October 12, 2024*
+Junior Tafa*Sean Sharaf*Heavyweight*win*October 12, 2024*
+Julia Polastri*Cory McKenna*Women's Strawweight*win*October 12, 2024*
+Cody Haddon*Dan Argueta*Bantamweight*win*October 12, 2024*
+Clayton Carpenter*Lucas Rocha*Flyweight*win*October 12, 2024*
+Alex Pereira*Khalil Rountree Jr.*Light Heavyweight*win*October 05, 2024*
+Julianna Pena*Raquel Pennington*Women's Bantamweight*win*October 05, 2024*
+Mario Bautista*Jose Aldo*Bantamweight*win*October 05, 2024*
+Roman Dolidze*Kevin Holland*Middleweight*win*October 05, 2024*
+Kayla Harrison*Ketlen Vieira*Women's Bantamweight*win*October 05, 2024*
+Joaquin Buckley*Stephen Thompson*Welterweight*win*October 05, 2024*
+Iasmin Lucindo*Marina Rodriguez*Women's Strawweight*win*October 05, 2024*
+Alexander Hernandez*Austin Hubbard*Lightweight*win*October 05, 2024*
+Cesar Almeida*Ihor Potieria*Middleweight*win*October 05, 2024*
+Ryan Spann*Ovince Saint Preux*Light Heavyweight*win*October 05, 2024*
+Tecia Pennington*Carla Esparza*Women's Strawweight*win*October 05, 2024*
+Court McGee*Tim Means*Welterweight*win*October 05, 2024*
+Renato Moicano*Benoit Saint Denis*Lightweight*win*September 28, 2024*
+Nassourdine Imavov*Brendan Allen*Middleweight*win*September 28, 2024*
+William Gomis*Joanderson Brito*Featherweight*win*September 28, 2024*
+Bryan Battle*Kevin Jousset*Welterweight*win*September 28, 2024*
+Morgan Charriere*Gabriel Miranda*Featherweight*win*September 28, 2024*
+Fares Ziam*Matt Frevola*Lightweight*win*September 28, 2024*
+Ion Cutelaba*Ivan Erslan*Light Heavyweight*win*September 28, 2024*
+Oumar Sy*Da Woon Jung*Light Heavyweight*win*September 28, 2024*
+Ludovit Klein*Roosevelt Roberts*Lightweight*win*September 28, 2024*
+Taylor Lapilus*Vince Morales*Bantamweight*win*September 28, 2024*
+Ailin Perez*Daria Zhelezniakova*Women's Bantamweight*win*September 28, 2024*
+Daniel Barez*Victor Altamirano*Flyweight*win*September 28, 2024*
+Jacqueline Cavalcanti*Nora Cornolle*Women's Bantamweight*win*September 28, 2024*
+Chris Duncan*Bolaji Oki*Lightweight*win*September 28, 2024*
+Merab Dvalishvili*Sean O'Malley*Bantamweight*win*September 14, 2024*
+Valentina Shevchenko*Alexa Grasso*Women's Flyweight*win*September 14, 2024*
+Diego Lopes*Brian Ortega*Featherweight*win*September 14, 2024*
+Esteban Ribovics*Daniel Zellhuber*Lightweight*win*September 14, 2024*
+Ronaldo Rodriguez*Ode Osbourne*Flyweight*win*September 14, 2024*
+Norma Dumont*Irene Aldana*Women's Bantamweight*win*September 14, 2024*
+Ignacio Bahamondes*Manuel Torres*Lightweight*win*September 14, 2024*
+Ketlen Souza*Yazmin Jauregui*Women's Strawweight*win*September 14, 2024*
+Joshua Van*Edgar Chairez*Flyweight*win*September 14, 2024*
+Raul Rosas Jr.*Aoriqileng*Bantamweight*win*September 14, 2024*
+Sean Brady*Gilbert Burns*Welterweight*win*September 07, 2024*
+Natalia Silva*Jessica Andrade*Women's Flyweight*win*September 07, 2024*
+Steve Garcia*Kyle Nelson*Featherweight*win*September 07, 2024*
+Cody Durden*Matt Schnell*Bantamweight*win*September 07, 2024*
+Yanal Ashmouz*Trevor Peek*Lightweight*win*September 07, 2024*
+Chris Padilla*Rongzhu*Lightweight*win*September 07, 2024*
+Isaac Dulgarian*Brendon Marotte*Featherweight*win*September 07, 2024*
+Andre Lima*Felipe dos Santos*Flyweight*win*September 07, 2024*
+Gabriel Santos*Yizha*Featherweight*win*September 07, 2024*
+Jaqueline Amorim*Vanessa Demopoulos*Women's Strawweight*win*September 07, 2024*
+Andre Petroski*Dylan Budka*Middleweight*win*September 07, 2024*
+Nathan Fletcher*Zygimantas Ramaska*Featherweight*win*September 07, 2024*
+Caio Borralho*Jared Cannonier*Middleweight*win*August 24, 2024*
+Tabatha Ricci*Angela Hill*Women's Strawweight*win*August 24, 2024*
+Ryan Loder*Robert Valentin*Middleweight*win*August 24, 2024*
+Mairon Santos*Kaan Ofli*Featherweight*win*August 24, 2024*
+Michael Morales*Neil Magny*Welterweight*win*August 24, 2024*
+Gerald Meerschaert*Edmen Shahbazyan*Middleweight*win*August 24, 2024*
+Francis Marshall*Dennis Buzukja*Lightweight*win*August 24, 2024*
+Zachary Reese*Jose Daniel Medina*Middleweight*win*August 24, 2024*
+Viacheslav Borshchev*James Llontop*Lightweight*win*August 24, 2024*
+Jacqueline Cavalcanti*Josiane Nunes*Women's Bantamweight*win*August 24, 2024*
+Wang Cong*Victoria Leonardo*Women's Flyweight*win*August 24, 2024*
+Dricus Du Plessis*Israel Adesanya*Middleweight*win*August 17, 2024*
+Kai Kara-France*Steve Erceg*Flyweight*win*August 17, 2024*
+Dan Hooker*Mateusz Gamrot*Lightweight*win*August 17, 2024*
+Jairzinho Rozenstruik*Tai Tuivasa*Heavyweight*win*August 17, 2024*
+Carlos Prates*Li Jingliang*Welterweight*win*August 17, 2024*
+Valter Walker*Junior Tafa*Heavyweight*win*August 17, 2024*
+Ricardo Ramos*Josh Culibao*Featherweight*win*August 17, 2024*
+Casey O'Neill*Luana Santos*Women's Flyweight*win*August 17, 2024*
+Jack Jenkins*Herbert Burns*Featherweight*win*August 17, 2024*
+Tom Nolan*Alex Reyes*Lightweight*win*August 17, 2024*
+Song Kenan*Ricky Glenn*Welterweight*win*August 17, 2024*
+Jesus Aguilar*Stewart Nicoll*Flyweight*win*August 17, 2024*
+Serghei Spivac*Marcin Tybura*Heavyweight*win*August 10, 2024*
+Chepe Mariscal*Damon Jackson*Featherweight*win*August 10, 2024*
+Danny Barlow*Nikolay Veretennikov*Welterweight*win*August 10, 2024*
+Chris Gutierrez*Quang Le*Bantamweight*win*August 10, 2024*
+Yana Santos*Chelsea Chandler*Women's Bantamweight*win*August 10, 2024*
+Toshiomi Kazama*Charalampos Grigoriou*Bantamweight*win*August 10, 2024*
+Karol Rosa*Pannie Kianzad*Women's Bantamweight*win*August 10, 2024*
+Jhonata Diniz*Karl Williams*Heavyweight*win*August 10, 2024*
+Youssef Zalal*Jarno Errens*Featherweight*win*August 10, 2024*
+Stephanie Luciano*Talita Alencar*Women's Strawweight*win*August 10, 2024*
+Umar Nurmagomedov*Cory Sandhagen*Bantamweight*win*August 03, 2024*
+Shara Magomedov*Michal Oleksiejczuk*Middleweight*win*August 03, 2024*
+Deiveson Figueiredo*Marlon Vera*Bantamweight*win*August 03, 2024*
+Michael Chiesa*Tony Ferguson*Welterweight*win*August 03, 2024*
+Mackenzie Dern*Loopy Godinez*Women's Strawweight*win*August 03, 2024*
+Joel Alvarez*Elves Brener*Lightweight*win*August 03, 2024*
+Azamat Murzakanov*Alonzo Menifield*Light Heavyweight*win*August 03, 2024*
+Kaue Fernandes*Mohammad Yahya*Lightweight*win*August 03, 2024*
+Shamil Gaziev*Don'Tale Mayes*Heavyweight*win*August 03, 2024*
+Guram Kutateladze*Jordan Vucenic*Lightweight*win*August 03, 2024*
+Sam Hughes*Viktoriia Dudakova*Women's Strawweight*win*August 03, 2024*
+Jai Herbert*Rolando Bedoya*Lightweight*win*August 03, 2024*
+Sedriques Dumas*Denis Tiuliulin*Middleweight*win*August 03, 2024*
+Belal Muhammad*Leon Edwards*Welterweight*win*July 27, 2024*
+Tom Aspinall*Curtis Blaydes*Heavyweight*win*July 27, 2024*
+Paddy Pimblett*King Green*Lightweight*win*July 27, 2024*
+Gregory Rodrigues*Christian Leroy Duncan*Middleweight*win*July 27, 2024*
+Arnold Allen*Giga Chikadze*Featherweight*win*July 27, 2024*
+Nathaniel Wood*Daniel Pineda*Featherweight*win*July 27, 2024*
+Bruna Brasil*Molly McCann*Women's Strawweight*win*July 27, 2024*
+Jake Hadley*Caolan Loughran*Bantamweight*win*July 27, 2024*
+Muhammad Mokaev*Manel Kape*Flyweight*win*July 27, 2024*
+Oban Elliott*Preston Parsons*Welterweight*win*July 27, 2024*
+Modestas Bukauskas*Marcin Prachnio*Light Heavyweight*win*July 27, 2024*
+Sam Patterson*Kiefer Crosbie*Welterweight*win*July 27, 2024*
+Mick Parkin*Lukasz Brzeski*Heavyweight*win*July 27, 2024*
+Shauna Bannon*Alice Ardelean*Women's Strawweight*win*July 27, 2024*
 Virna Jandiroba*Amanda Lemos*Women's Strawweight*win*July 20, 2024*
 Steve Garcia*SeungWoo Choi*Featherweight*win*July 20, 2024*
 Kurt Holobaugh*Kaynan Kruschewsky*Lightweight*win*July 20, 2024*
